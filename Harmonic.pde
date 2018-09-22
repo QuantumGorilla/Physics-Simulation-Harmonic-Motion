@@ -9,6 +9,8 @@ Simple i = new Simple(new Motion(0, -0.1));
 
 /**
  Función que determina el tamaño de la ventana de visualización.
+ También establece que vaya a 60 fps. En caso de que el procesador de n pc donde se use no pueda mantenerlo no será util el 
+ llamado del metodo.
  */
 void setup() {
   size(840, 460);
