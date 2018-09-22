@@ -14,7 +14,7 @@ Simple i = new Simple(new Motion(0, -0.1));
  */
 void setup() {
   size(840, 460);
-  frameRate(60); //Mejorar los frames
+  frameRate(60); 
 }
 
 /*
