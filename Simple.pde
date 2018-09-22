@@ -30,7 +30,8 @@ class Simple {
 
 
   /**
-   Función que dibuja a partir del angulo de inicio. Dibuja una onda dirigida hacía la derecha
+   Función que dibuja a partir del angulo de inicio. Dibuja una onda dirigida hacía la derecha.
+   Hay diferentes figuras por las cuales observar el movimiento. Particularmente me gusta el Ellipse seguido del line.
    */
   void drawMe(Motion m) {
     for (int x = 0; x <= width; x += 24) {
