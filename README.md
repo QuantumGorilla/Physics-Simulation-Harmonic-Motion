@@ -1,2 +1,2 @@
 # Physics-Simulation-Harmonic-Motion
-Simulación gráfica de un movimiento armónico simple con ondas.
+Visualización de un movimiento armonico simple como onda.
